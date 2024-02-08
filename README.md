@@ -13,7 +13,7 @@ npm install hydra-express -S
 
 ```
 
-## ARCHIVOS DE RUTAS y DE CONTROLADORES
+## ARCHIVOS DE RUTAS Y CONTROLADORES
 
 `controllers/productController.js`
 
