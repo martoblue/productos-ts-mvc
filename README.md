@@ -13,12 +13,10 @@ npm install hydra-express -S
 
 ```
 
-## ARCHIVOS DE CONFIGURACIÓN
+## Inicializar un Proyecto de Node con Express
 
 `sh
-
-.env
-
+npm run dev
 `
 
 ## ARCHIVOS DE RUTAS y DE CONTROLADORES
