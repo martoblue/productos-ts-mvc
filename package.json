@@ -1,0 +1,21 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev src/app.ts"
+  },
+  "keywords": [],
+  "author": "Luis Martorelli, luismarto8a@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "hydra-express": "^1.9.5",
+    "mysql2": "^3.9.1",
+    "redis": "^4.6.13"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
