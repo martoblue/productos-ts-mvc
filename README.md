@@ -15,10 +15,11 @@ npm install hydra-express -S
 
 ## ARCHIVOS DE CONFIGURACIÓN
 
-``
+`sh
+
 .env
 
-``
+`
 
 ## ARCHIVOS DE RUTAS y DE CONTROLADORES
 
