@@ -15,15 +15,8 @@ npm install hydra-express -S
 
 ## ARCHIVOS DE RUTAS y DE CONTROLADORES
 
-```sh
-controllers/productController.js
-```
+`controllers/productController.js`
 
-## INICIALIZAR MICROSERVICIO
-
-```sh
-npm run dev
-```
 
 ## Inicializar un Proyecto de Node con Express
 
