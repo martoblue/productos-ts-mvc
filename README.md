@@ -27,6 +27,4 @@ npm run dev
 
 ## Inicializar un Proyecto de Node con Express
 
-`sh
-npm run dev
-`
+`npm run dev`
