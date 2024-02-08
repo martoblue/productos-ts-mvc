@@ -13,12 +13,6 @@ npm install hydra-express -S
 
 ```
 
-## Inicializar un Proyecto de Node con Express
-
-`sh
-npm run dev
-`
-
 ## ARCHIVOS DE RUTAS y DE CONTROLADORES
 
 ```sh
@@ -30,3 +24,9 @@ controllers/productController.js
 ```sh
 npm run dev
 ```
+
+## Inicializar un Proyecto de Node con Express
+
+`sh
+npm run dev
+`
